@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+h1,h2, h3{
+  font-size: revert;
+}
+
+.img_icon{
+    width: 40px;
+    height: 100%;
+}
+
